@@ -1,0 +1,181 @@
+﻿text,label
+definetely,affirm
+Ya,affirm
+yes,affirm
+Yes,affirm
+yes work,affirm
+ठीक हां,affirm
+हां ठीक है,affirm
+हां चलेगा ठीक है,affirm
+ठीक है,affirm
+ठीक है जी,affirm
+हा जरूर,affirm
+हा नक्की,affirm
+हा नक्की,affirm
+हा,affirm
+बरं,affirm
+ಖಚಿತವಾಗಿ,affirm
+ಹೌದು ಖಚಿತವಾಗಿ,affirm
+ಖಚಿತವಾಗಿ ಖಚಿತವಾಗಿ,affirm
+ಹೌದು ಖಚಿತವಾಗಿ,affirm
+ಖಚಿತವಾಗಿ,affirm
+অবশ্যই,affirm
+অবশ্যই অবশ্যই,affirm
+হ্যাঁ অবশ্যই,affirm
+অবশ্যই একদম,affirm
+হ্যাঁ অবশ্যই,affirm
+ట్రై చేస్తాను మేడం,affirm
+చేస్తున్నాం,affirm
+చేయగలము,affirm
+చేసావ్ కదా,affirm
+చేయగలవు,affirm
+cant do,deny
+dont,deny
+dont want to,deny
+cant do it,deny
+cannot do it,deny
+अभी नई कर पाएंगे मैडम,deny
+अभी तो नई हो पाएगा मैडम जी,deny
+नहीं कल तक तो नहीं कर पाएंगे,deny
+नहीं कल तक तो नहीं कर पाएंगे मैडम,deny
+कल तक तो नहीं हो पाएगा जी,deny
+नाही नाही,deny
+ना,deny
+नाह,deny
+नाही,deny
+यावेळी नाही करू शकलो ,deny
+ಆಗಲ್ಲ ಮೇಡಂ,deny
+ಆಗಲ್ಲ ಸರ್,deny
+ಆಗಲ್ಲ,deny
+ಆಗಲ್ಲ ರೀ,deny
+ಆಗಲ್ಲ ಆಗಲ್ಲ,deny
+আমি বলতে পারব না ম্যাডাম,deny
+বলতে পারব না,deny
+ঘুম নেই,deny
+করব না,deny
+এরকম করবো না,deny
+తెలియదు,deny
+టైం పడతది,deny
+అరె పోదు,deny
+రేప్ అంటే కాదు మేడం,deny
+రేపు కాదమ్మా,deny
+Oh no thank you bye,bye
+OK Bye,bye
+ok bye have some problem,bye
+ok good night,bye
+Ba bye,bye
+अरे नहीं हम कर रहे हैं ओके बाय बाय,bye
+नो ओके थैंक्स बाय बाय,bye
+अलविदा,bye
+अरे नहीं धन्यवाद अलविदा,bye
+ठीक है बाय,bye
+अरे नाही आता बाय,bye
+नो ओके थँक्स बाय बाय,bye
+चला जातो,bye
+अरे नाही आभारी आहे जातो बाय,bye
+ठीक आहे बाय,bye
+ಬೈ ಬೈ,bye
+ಚಲೋ ಬೈ,bye
+ಸರಿ ಬೈ,bye
+ಓಕೆ ಬೈ,bye
+ಬಾಯ್ ಬಾಯ್,bye
+"আরে না, আমি করছি। বাই বাই",bye
+"ঠিক আছে, ধন্যবাদ, বাই বাই",bye
+বিদায়,bye
+"আরে না, ধন্যবাদ, বিদায়",bye
+ঠিক আছে বিদায়,bye
+టాటా,bye
+బాయ్ బాయ్,bye
+దయచేసి ఫోన్ కట్ చేయండి మేడం,bye
+నాతొ ఇప్పుడు మాట్లాడు లేదంటే ఫోన్ కట్ చేయి,bye
+ఫోన్ పెట్టు,bye
+Hello,greet
+hello mama before the repair,greet
+hello what mein dance,greet
+ja ja ja hello,greet
+halu,greet
+गुड आफ्टरनून,greet
+गुड आफ्टरनून मैम,greet
+यस गुड आफ्टरनून,greet
+हेलो,greet
+राम राम,greet
+काय हाल मग,greet
+हॅलो दोस्त आपण कसे आहात,greet
+नवीन काय मग,greet
+काय होत आहे,greet
+शुभ संध्याकाळ,greet
+ಶುಭ ದಿನ,greet
+ದಿನ ಒಲೆದಿರಲಿ,greet
+ಹೇಗಿದ್ದೀರ ಇವತ್ತು,greet
+ಹೇಗಿದ್ದೀರ,greet
+ಹಲೋ ದೋಸ್ತ,greet
+হ্যালো হ্যালো হ্যালো হ্যালো হ্যালো হ্যালো,greet
+হ্যালো,greet
+রাম রাম,greet
+রাম রামজি,greet
+হ্যালো,greet
+రామ్ రామ్,greet
+హలో ఏంటి,greet
+హలో,greet
+నమస్తే రేపు,greet
+రామ్ రామ్,greet
+idiot,humiliate
+fuck off idiot,humiliate
+idiot shut it,humiliate
+stupid idiot,humiliate
+nonsense idiot,humiliate
+भेजा खराब है,humiliate
+पगलैट भेजा नहीं है,humiliate
+भेजा खराब है क्या बे,humiliate
+खराब है भेजा तेरा,humiliate
+तुम्हारा भेजा नहीं है,humiliate
+गप्प बस,humiliate
+गप बस चूप कर,humiliate
+चूप कर गप्प बस,humiliate
+फोन कट कर,humiliate
+मूर्ख,humiliate
+ಮಂಡೆ ಪೆಟ್ಟು ಬಾಯಿ ಮುಚ್ಚು,humiliate
+ನೋಂಸೆನ್ಸ,humiliate
+ನೋಂಸೆನ್ಸ ಬಾಯಿ ಮುಚ್ಕೋ ಮರಾಯಿತೀ,humiliate
+ಹೋಗಿ ಬಾವಿಗೆ ಹರ್ರ್ಕೊ,humiliate
+ಸ್ಟುಪಿಡ್ ನೋಂಸೆನ್ಸ್ ಈಡಿಯಟ್,humiliate
+রেন্ডি,humiliate
+মাগি,humiliate
+গুদ,humiliate
+চুত,humiliate
+পোঁদ মারাও,humiliate
+మీరు పనికిరానివారు,humiliate
+మీరు మొత్తం చెత్త,humiliate
+నాన్సెన్స్ లోల్,humiliate
+నోరుమూసుకుని ఉండు,humiliate
+నువ్వు ఒక పెద్ద మొద్దు వి,humiliate
+No ok thanks,thanks
+No ok thank you,thanks
+No thanks nothing,thanks
+Thank you,thanks
+That's enough,thanks
+नहीं ठीक है बहुत-बहुत धन्यवाद मैडम आपका,thanks
+नहीं ठीक है धन्यवाद,thanks
+नहीं ठीक है थैंक यू,thanks
+नहीं कुछ नहीं जानना है धन्यवाद,thanks
+धन्यवाद,thanks
+नाही ठीक आहे आता धन्यवाद,thanks
+नाही ठीक आहे थँक यु,thanks
+नाही अजून काही जाणून घ्यायचं नाही आभारी आहे,thanks
+आभारी आहे,thanks
+आतासाठी धन्यवाद,thanks
+ಥ್ಯಾಂಕ್ಯೂ,thanks
+ಥ್ಯಾಂಕ್ಯೂ ಥ್ಯಾಂಕ್ಯೂ,thanks
+ಥ್ಯಾಂಕ್ಯೂ ವೆರಿ ಮಚ್,thanks
+ಥ್ಯಾಂಕ್ಯೂ ಹೆಲ್ಪ್ ಮಾಡಿದಕ್ಕೆ,thanks
+ಮಾಹಿತಿ ಕೊಟ್ಟಿದ್ದಕ್ಕಾಗಿ ಥ್ಯಾಂಕ್ಯೂ ವೆರಿ ಮಚ್,thanks
+"না ঠিক আছে, ধন্যবাদ",thanks
+"না ঠিক আছে,থ্যাংক ইউ",thanks
+"না কিছুু জানতে চাই না, ধন্যবাদ",thanks
+ধন্যবাদ,thanks
+এখন এটাই যথেষ্ট,thanks
+ఒకే థాంక్స్,thanks
+సరే థాంక్స్,thanks
+థాంక్ యు,thanks
+సరే థాంక్ యు,thanks
+ఒకే థాంక్ యు,thanks
